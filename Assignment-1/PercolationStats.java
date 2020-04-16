@@ -1,16 +1,3 @@
-/*********************************************************************************************************************
- *  Author                 : Deepak Kumar Sood
- *  Date                   : 30-Dec-2017
- *  Last updated           : 30-Dec-2017
- * 
- *  Compilation            : use DrJava
- *  Execution              : java-algs4 PercolationStats 200 100
- *
- *  Purpose of the program : A program to estimate the value of the percolation threshold via Monte Carlo simulation.
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
- *  Score                  : 100/100
-**********************************************************************************************************************/
-
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
