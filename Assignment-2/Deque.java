@@ -1,16 +1,3 @@
-/*********************************************************************************************************************
- *  Author                 : Deepak Kumar Sood
- *  Date                   : 7-Jan-2017
- *  Last updated           : 7-Jan-2017
- * 
- *  Compilation            : use DrJava
- *  Execution              : java-algs4 Dequeue
- *
- *  Purpose of the program : A generic Double Ended Queue with Iterator
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/queues.html
- *  Score                  : 100/100
-**********************************************************************************************************************/
-
 import java.util.NoSuchElementException;
 import java.util.Iterator;
 
