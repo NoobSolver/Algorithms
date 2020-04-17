@@ -1,15 +1,3 @@
-/*********************************************************************************************************************
- *  Author                 : Deepak Kumar Sood
- *  Date                   : 25-Jan-2017
- *  Last updated           : 25-Jan-2017
- * 
- *  Compilation            : javac-algs4 KdTree.java
- *  Execution              : java-algs4 KdTree
- *
- *  Purpose of the program : Implementation of KdTree for range search and nearest neighbor search
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
- *  Score                  : 99/100
-**********************************************************************************************************************/
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.RectHV;
 import edu.princeton.cs.algs4.StdDraw;
