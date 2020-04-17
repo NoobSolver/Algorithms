@@ -1,15 +1,3 @@
-/*********************************************************************************************************************
- *  Author                 : Deepak Kumar Sood
- *  Date                   : 14-Jan-2017
- *  Last updated           : 14-Jan-2017
- * 
- *  Compilation            : javac-algs4 Point.java
- *  Execution              : java-algs4 Point
- *
- *  Purpose of the program : To calculate collinear points using brute force.
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
- *  Score                  : 100/100
-**********************************************************************************************************************/
 import java.util.ArrayList;
 import java.util.Arrays;
 
