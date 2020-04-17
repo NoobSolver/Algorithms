@@ -1,15 +1,3 @@
-/*********************************************************************************************************************
- *  Author                 : Deepak Kumar Sood
- *  Date                   : 21-Jan-2017
- *  Last updated           : 21-Jan-2017
- * 
- *  Compilation            : javac-algs4 Board.java
- *  Execution              : java-algs4 Board
- *
- *  Purpose of the program : To find the solution to 8-puzzle problem using A* Search Algorithm
- *  Assingment link        : http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
- *  Score                  : 90/100
-**********************************************************************************************************************/
 import java.util.Arrays;
 import edu.princeton.cs.algs4.Queue;
 
